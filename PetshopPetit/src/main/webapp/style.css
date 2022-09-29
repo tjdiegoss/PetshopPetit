@@ -168,7 +168,7 @@ footer{
 
 /*Responsividade*/
 
-.mobile-menu div{
+.mobile-menu {
 	display: none;
 	cursor: pointer;
 }
