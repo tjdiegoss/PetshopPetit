@@ -171,16 +171,16 @@ footer{
 /*Responsividade*/
 
 .mobile-menu {
-	display: none;
-	cursor: pointer;
+  display: none;
+  cursor: pointer;
 }
 
-.mobile-menu div{
-	width: 32px;
-	height: 2px;
-	background: #fff;
-	margin: 8px;
-	transition: 0.3s;
+.mobile-menu div {
+  width: 32px;
+  height: 2px;
+  background: #fff;
+  margin: 8px;
+  transition: 0.3s;
 }
 
 @media (max-width: 999px){
@@ -188,7 +188,7 @@ footer{
 		overflow-x: hidden;
 	}
 	
-	.menu-content .nav-list{
+	 .nav-list{
 		position: absolute;
 		top: 8vh;
 		right: 0;
