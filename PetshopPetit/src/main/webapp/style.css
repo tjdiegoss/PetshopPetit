@@ -19,12 +19,14 @@ html{
 }
 
 body{
-    background: linear-gradient(rgba(17,17,17,0.8),rgba(20,20,20,1)),url(imagens/agora.jpg);
+   overflow-x: hidden;
+   background: linear-gradient(rgba(17,17,17,0.8),rgba(20,20,20,1)),url(imagens/agora.jpg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
     background-repeat: no-repeat;
-}
+	
+	}
 
 header{
 	width: 100%;
@@ -48,13 +50,13 @@ header{
 	cursor: pointer;
 }
 
-.menu-content .list-itens{
+.menu-content .nav-list{
 	display: flex;
 	list-style: none;
 	gap: 20px;
 }
 
-.menu-content .list-itens a {
+.menu-content .nav-list a {
 	text-decoration: none;
 	color: white;
 	padding: 1.5rem;
@@ -63,7 +65,7 @@ header{
 	
 }
 
-.menu-content .list-itens a:before{
+.menu-content .nav-list a:before{
 	content: ' ';
 	position: absolute;
 	bottom: 0px;
@@ -74,7 +76,7 @@ header{
 	transition: all 1.5s ease;
 }
 
-.menu-content .list-itens a:hover:before{
+.menu-content .nav-list a:hover:before{
 	width: 100%;
 }
 
@@ -186,7 +188,7 @@ footer{
 		overflow-x: hidden;
 	}
 	
-	.menu-content .list-itens{
+	.menu-content .nav-list{
 		position: absolute;
 		top: 8vh;
 		right: 0;
@@ -200,17 +202,17 @@ footer{
 		transition: transform 0.3s ease-in;
 	}
 	
-	.menu-content .list-itens li{
+	.nav-list li{
 		margin-left: 0;
 		opacity: 0;
 	}
-	.menu-content .mobile-menu{
+	.mobile-menu{
 		display: block;
 		
 	}
 }
 
-.menu-content .list-itens.active {
+.nav-list.active {
 	transform: translateX(0);
 }
 
@@ -225,14 +227,14 @@ footer{
 	}
 }
 
-.menu-content .mobile-menu.active .line1{
+.mobile-menu.active .line1{
 	transform: rotate(-45deg) translate(-8px, 8px);
 }
 
-.menu-content .mobile-menu.active .line2{
+.mobile-menu .active .line2{
 	opacity: 0;
 }
 
-.menu-content .mobile-menu.active .line3{
+.mobile-menu.active .line3{
 	transform: rotate(45deg) translate(-5px, -7px);
 }
