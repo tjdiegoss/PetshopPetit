@@ -1,2 +1,7 @@
 # PetshopPetit
-# Treino de HTML e CSS 
+# Em Construção 
+## Projeto
+## Tecnologias 
+## Screenshots 
+## Como usar
+## Licença 
