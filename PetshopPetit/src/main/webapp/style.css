@@ -186,6 +186,20 @@ footer{
 @media (max-width: 999px){
 	body{
 		overflow-x: hidden;
+		background-color: black;
+		background-position: center center;
+				
+	}
+	
+	.primary-text{
+		padding: 10px;
+	}
+	
+	second-text{
+		padding: 10px;
+	}
+	.btns{
+		flex-direction: column;
 	}
 	
 	 .nav-list{
@@ -200,11 +214,13 @@ footer{
 		justify-content: space-around;
 		transform: translateX(100%);
 		transition: transform 0.3s ease-in;
+		
 	}
 	
 	.nav-list li{
 		margin-left: 0;
 		opacity: 0;
+		
 	}
 	.mobile-menu{
 		display: block;
@@ -229,10 +245,13 @@ footer{
 
 .mobile-menu.active .line1{
 	transform: rotate(-45deg) translate(-8px, 8px);
+	color: red;
 }
 
 .mobile-menu .active .line2{
 	opacity: 0;
+	color: red;
+
 }
 
 .mobile-menu.active .line3{
