@@ -184,22 +184,35 @@ footer{
 }
 
 @media (max-width: 999px){
-	body{
+	
+	
+	.fundo{
 		overflow-x: hidden;
-		background-color: black;
-		background-position: center center;
+		overflow-y: hidden;
+		background-image: linear-gradient(rgba(17,17,17,0.8),rgba(20,20,20,1)) ,url(imagens/fundo_index_mobile.png) ;
+		
+		background-size: cover ;
+		/* background-position: center center; */
+		background-color: yellow;
 				
 	}
 	
-	.primary-text{
-		padding: 10px;
+	.primary-text {
+		
+		width: 40%;
+		text-align: center;
+		
 	}
 	
-	second-text{
+	.second-text{
 		padding: 10px;
+		width: 40%;
+		text-align: center;
 	}
 	.btns{
 		flex-direction: column;
+		width: 100%;
+		align-items: center;
 	}
 	
 	 .nav-list{
@@ -214,6 +227,7 @@ footer{
 		justify-content: space-around;
 		transform: translateX(100%);
 		transition: transform 0.3s ease-in;
+		
 		
 	}
 	
