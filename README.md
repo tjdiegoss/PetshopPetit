@@ -14,5 +14,8 @@ A loja em si não existe. Qualquer semelhança com lojas de mesmo nome é mera c
 *[JavaScript](http://developer.mozilla.org)
 
 ## Screenshots 
+
+<p align="center"> <image title="" aria-hidden="true" src="PetshopPetit/.github/landing_page.png" width="400px"/></p>
+
 ## Como usar
 ## Licença 
