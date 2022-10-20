@@ -72,6 +72,20 @@ $ yarn start
 ```
 
 ---  
+
+## Tarefas
+
+O controle das tarefas desse projeto será realizado pelo GitHub.  
+
+---  
+## Icones  
+
+- 📦: Nova Funcionalidade
+- 🆙: Atualização
+- 🐞: Correção de bug
+- 🏁: Release
+
+---  
 ## Licença  
 
 ---  
