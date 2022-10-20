@@ -1,6 +1,14 @@
 # PetshopPetit
 ## Fase: Landing Page finalizada e responsiva
 
+# Indice
+
+- [Projeto](#projeto)  
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+- [Screenshots](#screenshots)  
+- [Como baixar o projeto](#como-baixar-o-projeto)  
+- [Licença](#licença)  
+
 ## **Projeto**
 
 <p align="center"> <image title="" aria-hidden="true" src="PetshopPetit/.github/Animação.gif" width="400px"/></p>
@@ -14,11 +22,11 @@ A loja em si não existe. Qualquer semelhança com lojas de mesmo nome é mera c
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
--[HTML](http://www.w3.org/html)
+- [HTML](http://www.w3.org/html)
 
--[CSS](http://www.w3.org/css)
+- [CSS](http://www.w3.org/css)
 
--[JavaScript](http://developer.mozilla.org)
+- [JavaScript](http://developer.mozilla.org)
 
 ## Screenshots 
 
