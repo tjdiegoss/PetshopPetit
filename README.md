@@ -1,8 +1,8 @@
-# PetshopPetit
+# PetshopPetit  
 
-## Fase: Landing Page finalizada e responsiva
+## Fase: Landing Page finalizada e responsiva  
 
-# Indice
+# Indice  
 
 - [Projeto](#projeto)  
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
@@ -10,9 +10,9 @@
 - [Como baixar o projeto](#como-baixar-o-projeto)  
 - [Licença](#licença)  
 
----
+---  
 
-## **Projeto**
+## Projeto  
 
 <p align="center"> <image title="" aria-hidden="true" src="PetshopPetit/.github/Animação.gif" width="400px"/></p>
 <p align="center">GIF da tela inicial do projeto na versão para desktop </p>
@@ -23,7 +23,7 @@ A loja em si não existe. Qualquer semelhança com lojas de mesmo nome é mera c
 
 ---
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas  
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [JavaScript](http://developer.mozilla.org)
 
----
+---  
 
-## Screenshots 
+## Screenshots   
 
 <p align="center"> <image title="" aria-hidden="true" src="PetshopPetit/.github/landing_page.png" width="400px"/></p>
 <p align="center">Screenshot da tela inicial do projeto na versão para desktop </p>
@@ -52,9 +52,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <p align="center"> <image title="" aria-hidden="true" src="PetshopPetit/.github/responsividade_menu.gif" width="400px"/></p>
 <p align="center">Menu para a versão mobile </p>
 
----
+---  
 
-## Como baixar o projeto
+## Como baixar o projeto  
 
 ```bash
 # Clonar o repositório
@@ -71,8 +71,8 @@ $ yarn start
 
 ```
 
----
-## Licença 
+---  
+## Licença  
 
----
+---  
 Desenvolvido por: José Diego Tenório
