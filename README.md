@@ -106,4 +106,4 @@ O controle das tarefas desse projeto será realizado pelo GitHub.
 Esse projeto encontra-se sob a Licença MIT. Consulte [LICENSE](./LICENSE.md) para ver mais informações. 
 
 ---  
-Desenvolvido por: José Diego Tenório
+Desenvolvido por: [José Diego Tenório](https://www.github.com/tjdiegoss) 
